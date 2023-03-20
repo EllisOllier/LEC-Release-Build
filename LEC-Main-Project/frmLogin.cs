@@ -15,7 +15,7 @@ namespace LEC_Main_Project
     public partial class frmLogin : Form
     {
         // Database variables
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-T9LNCSO;Initial Catalog=LEC-Database;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"");
         // Login related variables for global use
         static string username;
         static string password;
