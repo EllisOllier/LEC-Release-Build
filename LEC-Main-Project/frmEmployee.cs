@@ -17,7 +17,7 @@ namespace LEC_Main_Project
         public string CurrentUser;
         public int CompletedJobs;
         // Database connection string
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-T9LNCSO;Initial Catalog=LEC-Database;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"");
 
         public frmEmployee(string username)
         {
