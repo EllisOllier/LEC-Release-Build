@@ -1,0 +1,36 @@
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.exe.config
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.exe
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.pdb
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.AssemblyReference.cache
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.Properties.Resources.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.GenerateResource.cache
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.CoreCompileInputs.cache
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.exe
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.pdb
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmLogin.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmMain.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmHome.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmEmployee.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmSetting.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmAddJob.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmDeleteJob.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmEditJob.resources
+H:\Computer Science Year 2\Laura\LEC Project\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmViewCalendar.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.AssemblyReference.cache
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmAddJob.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmLogin.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmEmployee.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmHome.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmMain.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmSetting.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.frmViewCalendar.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC_Main_Project.Properties.Resources.resources
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.GenerateResource.cache
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.csproj.CoreCompileInputs.cache
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.exe
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\obj\Debug\LEC-Main-Project.pdb
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Project-Data.accdb
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.exe.config
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.exe
+C:\Users\ellis\Desktop\LEC-Main-MarchBuild-main\LEC-Main-Project\LEC-Main-Project\bin\Debug\LEC-Main-Project.pdb
