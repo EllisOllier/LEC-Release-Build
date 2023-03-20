@@ -14,7 +14,7 @@ namespace LEC_Main_Project
     {
         // Variable declarations
         // Database variables
-        SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-T9LNCSO;Initial Catalog=LEC-Database;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"");
         // Job related variables
         int LeeJobs;
         int TonyJobs;
